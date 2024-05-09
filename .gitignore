@@ -230,3 +230,4 @@ dw_php_codehinting.config
 .DS_Store
 .vscode
 .idea
+.history
